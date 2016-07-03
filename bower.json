@@ -1,0 +1,21 @@
+{
+  "name": "learning-nodejs",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Frank Pigeon (http://frankpigeon.com/)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/fpigeon/learning-nodejs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
